@@ -2,9 +2,15 @@
 
 ## Objetivo
 
-Desarrollar un un sistema de contabilidad personal
+Desarrollar un sistema de contabilidad personal
 para el hogar que simplifica el registro de transacciones y proporcione una visión clara
 de la situacion financiera familiar
+
+Desarrollar una aplicación full-stack de finanzas personales desde cero, implementando un motor contable basado en el principio de partida doble. El sistema ingiere transacciones 
+a través de un bot de Telegram, las procesa con un backend de Python, las almacena en una base de datos relacional PostgreSQL y las visualiza en un dashboard interactivo con Streamlit. 
+El código está estructurado de forma modular y la arquitectura está documentada.
+
+Tecnologías: Python, PostgreSQL, Streamlit, Git, Docker, GCP
 
 ## Alcance
 
@@ -19,7 +25,7 @@ en un Dashboard de Streamlit
 
 ### Macro-Requerimientos 1: Gestión de Entidades Fundamentales (Core Entities)
 - **RF 1.1:** El sistema debe permitir la creacion, lectura, actualización y borrado de usuarios.
-- **RF1.2:** El sistema debe permitir la gestión de un plan de cuentas de usuarios.
+- **RF 1.2:** El sistema debe permitir la gestión de un plan de cuentas de usuarios.
 - **RF 1.3:** El sistema debe permitir la gestión de métodos de pago asociados a un usuario.
 - **RF 1.4** El sistema debe permitir la gestión de proveedores de servicios.
 
