@@ -10,7 +10,7 @@ Desarrollar una aplicación full-stack de finanzas personales desde cero, implem
 a través de un bot de Telegram, las procesa con un backend de Python, las almacena en una base de datos relacional PostgreSQL y las visualiza en un dashboard interactivo con Streamlit. 
 El código está estructurado de forma modular y la arquitectura está documentada.
 
-Tecnologías: Python, PostgreSQL, Streamlit, Git, Docker, GCP
+Tecnologías: Python, PostgreSQL, Streamlit, Git, Docker, AWS
 
 ## Alcance
 
