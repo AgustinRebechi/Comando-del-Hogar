@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec2185b7-1858-4a8d-98d0-79296b63e946" name="Changes" comment="Requerimientos v0.1.2: Diagramas" />
+    <list default="true" id="ec2185b7-1858-4a8d-98d0-79296b63e946" name="Changes" comment="Requerimientos v0.1.21: Diagramas">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/oltp_der.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/oltp_der.jpeg" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,6 +69,7 @@
       <workItem from="1752664601719" duration="5527000" />
       <workItem from="1752719427035" duration="2777000" />
       <workItem from="1752819603937" duration="317000" />
+      <workItem from="1753730718643" duration="1431000" />
     </task>
     <task id="LOCAL-00001" summary="Requerimientos v0.1">
       <option name="closed" value="true" />
@@ -83,7 +87,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752819734118</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Requerimientos v0.1.21: Diagramas">
+      <option name="closed" value="true" />
+      <created>1753730932730</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1753730932730</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +104,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Requerimientos v0.1" />
     <MESSAGE value="Requerimientos v0.1.2: Diagramas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Requerimientos v0.1.2: Diagramas" />
+    <MESSAGE value="Requerimientos v0.1.21: Diagramas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Requerimientos v0.1.21: Diagramas" />
   </component>
 </project>
